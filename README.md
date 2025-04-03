@@ -8,7 +8,7 @@
 <h3>
   🔥 Frontend Frameworks: React, NodeJs, Vue.js, Angular,..
 
-🎨 Styling: Tailwind CSS, SCSS, Bootstrap, Ant design
+🎨 Styling: Tailwind CSS, Bootstrap, Ant design
 
 ⚙️ Languages: TypeScript, JavaScript (ES6+), HTML, CSS
 
