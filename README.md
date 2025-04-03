@@ -1,10 +1,10 @@
 👋 Hello! I'm Quan.
 
-💻 Frontend Developer | UI/UX Enthusiast | Web Technology Lover
+<h1>💻 Frontend Developer | UI/UX Enthusiast | Web Technology Lover</h1>
 
-I specialize in building responsive, high-performance web applications with a focus on user experience and modern design. Passionate about frontend development, I love working with cutting-edge technologies to create seamless and engaging interfaces.
+<h2>I specialize in building responsive, high-performance web applications with a focus on user experience and modern design. Passionate about frontend development, I love working with cutting-edge technologies to create seamless and engaging interfaces.</h2>
 
-🚀 Tech Stack & Skills
+<h1>🚀 Tech Stack & Skills</h1>
 🔥 Frontend Frameworks: React, NodeJs, Vue.js, Angular,..
 
 🎨 Styling: Tailwind CSS, SCSS, Bootstrap, Ant design
@@ -15,7 +15,7 @@ I specialize in building responsive, high-performance web applications with a fo
 
 ⚡ Performance & Optimization: Code splitting, Lazy loading, Web performance best practices
 
-🎯 What I Do
+<h1>🎯 What I Do</h1>
 Crafting interactive and dynamic user interfaces
 
 Ensuring cross-browser and mobile-friendly compatibility
@@ -26,7 +26,7 @@ Integrating APIs and managing frontend state efficiently
 
 Constantly learning and experimenting with new technologies
 
-📫 Let's Connect!
+<h1>📫 Let's Connect!</h1>
 🌐 My Portfolio : [myportfolio](https://minq05portfolio.netlify.app/)
 
 📧 Email: [hoangquan222005@gmail.com]
@@ -35,4 +35,5 @@ Constantly learning and experimenting with new technologies
 
 📘 Facebook: [Minh Quân](https://www.facebook.com/minh.quan.141435)
 
-🚀 Always excited to take on new challenges and collaborate on innovative projects!
+<h2>🚀 Always excited to take on new challenges and collaborate on innovative projects!
+</h2>
