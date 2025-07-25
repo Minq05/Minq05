@@ -37,7 +37,7 @@ Communication & Presentation Skills
 Leadership & Teamwork
 
 📫 Let's Connect!
-Portfolio: [minq05.netlify.app](minq05.netlify.app)
+Portfolio: [minq05.netlify.app](https://minq05.netlify.app/)
 
 Email: hoangquan222005@gmail.com
 
