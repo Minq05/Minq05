@@ -1,46 +1,48 @@
-<h1>👋 Hello! I'm Quan.</h1>
+👋 Hi there, I'm Quan!
+Frontend Developer | UI/UX Enthusiast | Web Technology Explorer
 
-<h2>💻 Frontend Developer | UI/UX Enthusiast | Web Technology Lover</h2>
+I specialize in building responsive, high-performance web applications with a strong focus on user experience and modern design principles. Passionate about frontend development, I enjoy working with cutting-edge technologies to deliver seamless and engaging digital experiences.
 
-<h3>I specialize in building responsive, high-performance web applications with a focus on user experience and modern design. Passionate about frontend development, I love working with cutting-edge technologies to create seamless and engaging interfaces.</h3>
+🚀 Technical Skills
+Frameworks & Libraries: React, Node.js (Express), Ant Design, TanStack Query, Tailwind CSS, Bootstrap
 
-<h2>🚀 Tech Stack & Skills</h2>
-<h3>
-  🔥 Frontend Frameworks: React, NodeJs, Vue.js, Angular,..
+Languages: TypeScript, JavaScript (ES6+), HTML, CSS
 
-🎨 Styling: Tailwind CSS, Bootstrap, Ant design
+Database: Mongoose DB
 
-⚙️ Languages: TypeScript, JavaScript (ES6+), HTML, CSS
+DevOps: CI/CD, Testing, Deployment
 
-📦 Build Tools: Vite
+Others: Agile/Scrum, Git Flow, MVC Architecture, Figma, AI Utilization & Integration
 
-⚡ Performance & Optimization: Code splitting, Lazy loading, Web performance best practices
-</h3>
+🎨 What I Do
+Craft interactive and dynamic user interfaces
 
-<h2>🎯 What I Do</h2>
-<h3>
-  Crafting interactive and dynamic user interfaces
+Ensure cross-browser and mobile-friendly compatibility
 
-Ensuring cross-browser and mobile-friendly compatibility
+Optimize performance for fast, smooth, and scalable applications
 
-Optimizing performance for fast and smooth experiences
+Integrate APIs and manage frontend state effectively
 
-Integrating APIs and managing frontend state efficiently
+Continuously learn and experiment with new technologies
 
-Constantly learning and experimenting with new technologies
-</h3>
+🧠 Soft Skills
+Perseverance & Stress Management
 
-<h2>📫 Let's Connect!</h2>
-<h3>
-🌐 My Portfolio : [myportfolio](https://minq05portfolio.netlify.app/)
+Logical & Analytical Thinking
 
+Problem-Solving & Critical Thinking
 
-📧 Email: [hoangquan222005@gmail.com]
+Communication & Presentation Skills
 
-📱 Phone: [0364017978]
+Leadership & Teamwork
 
-📘 Facebook: [Minh Quân](https://www.facebook.com/minh.quan.141435)
-</h3>
+📫 Let's Connect!
+Portfolio: minq05portfolio.netlify.app
 
-<h2>🚀 Always excited to take on new challenges and collaborate on innovative projects!
-</h2>
+Email: hoangquan222005@gmail.com
+
+Phone: 0364017978
+
+Facebook: Minh Quân
+
+Always excited to take on new challenges and collaborate on innovative projects!
